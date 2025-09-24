@@ -348,24 +348,7 @@ const RoleSelection = () => {
       </div>
 
       {/* Footer */}
-      <div className="bg-gray-900 py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center">
-            <div className="flex justify-center items-center mb-6">
-              <Heart className="w-6 h-6 text-red-500 mr-2" />
-              <span className="text-white text-lg font-semibold">Able-D</span>
-            </div>
-            <p className="text-gray-400 mb-4">
-              Powered by AI • Designed for Accessibility • Built with ❤️
-            </p>
-            <div className="flex justify-center space-x-6 text-sm text-gray-400">
-              <span>© 2024 Able-D. All rights reserved.</span>
-              <span>•</span>
-              <span>Making education accessible for everyone</span>
-            </div>
-          </div>
-        </div>
-      </div>
+
     </div>
   );
 };
